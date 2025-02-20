@@ -89,6 +89,10 @@ header hgroup h2 {
 
 p {
   font: 400 14px oswald, sans-serif;
+
+    margin-top: 0;
+    margin-bottom: 1rem;
+  
 }
 
 section[role=main] {
@@ -205,13 +209,13 @@ section[role=main] h4 strong {
 
 .site {
   background-position: 0 -2px;
-  color: #848484;
+  color: #2b58bb;
   font: 400 15px oswald, sans-serif;
 }
 	
 .date {
   background-position: 0 -22px;
-  color: #999;
+  color: #9aa7c2;
   font: 400 15px oswald, sans-serif;
 }
 
